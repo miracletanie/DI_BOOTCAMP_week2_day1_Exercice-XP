@@ -5,5 +5,10 @@ let celsiusTemperature = prompt('Give celsius temperature');
     alert(celsiusTemperature + "°C is " + fahrenheitTemperature +"°F");
     console.log(celsiusTemperature + "°C is " + fahrenheitTemperature +"°F");
 
+/**
+Correcteur: Yannick GOUGUIA
+
+A quoi sert ce bout de code alert??
+*/
 
 alert('Veuillez fournir un nombre');
